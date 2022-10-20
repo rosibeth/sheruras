@@ -1,0 +1,8 @@
+{
+    "name": "Sheruras",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Sala de Reuniones",
+    "contributors": [],
+    "dependencies": {}
+}
